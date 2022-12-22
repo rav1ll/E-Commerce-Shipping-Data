@@ -1,6 +1,11 @@
+##### ссылка на видео: https://drive.google.com/file/d/1JQ0WR7h3ML8sVZN0M35zgrfknoLJ93GZ/view?usp=share_link
+
+
 # О датасете
 
-##### ссылка: https://www.kaggle.com/datasets/prachi13/customer-analytics
+##### ссылка на датасет: https://www.kaggle.com/datasets/prachi13/customer-analytics
+
+
 ## Компания, которая продает электронику онлайн, хочет найти различные зависимости и закономерности в базе данных своих клиентов
 
 ### Датасет содержит 12 переменных и почти 11000 строк с данными
